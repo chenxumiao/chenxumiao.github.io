@@ -39,7 +39,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/lby.png
+logo:                  /assets/icons/cxm.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -74,7 +74,7 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/35701506_1935132846517938_8952421413646499840_n3.jpg
+accent_image:          /assets/img/wallroom-3840x2400-bg-0f518b8.jpg
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
