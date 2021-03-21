@@ -14,3 +14,7 @@ title: Personal Experiences
   * The third prize in The first mathematical modeling contest
   * The third prize in The third Mathematics Competition(Math I)
   * The excellence award in Intramural Trials of The 14th College Student Innovation and Entrepreneurship Competition and the 6th China International "Internet+" College Student Innovation and Entrepreneurship Competition
+
+## Researchs
+
+* Provincial Level
