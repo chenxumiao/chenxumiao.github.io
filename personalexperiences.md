@@ -12,3 +12,5 @@ title: Personal Experiences
   * Third-class Scholarship(2018-2019, 2019-2020)
   * Excellent Student(2018-2019, 2019-2020)
   * Third prize of The first mathematical modeling contest
+  * Third prize of The third Mathematics Competition(Math I)
+  * 
