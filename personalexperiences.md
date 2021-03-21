@@ -24,6 +24,4 @@ title: Personal Experiences
 
 ## Volunteer Services
 
-*
-*
-*
+*  Volunteer Teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province
