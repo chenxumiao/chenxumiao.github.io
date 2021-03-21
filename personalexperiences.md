@@ -11,7 +11,7 @@ title: Personal Experiences
 * School Level 
   * Third-class Scholarship(2018-2019, 2019-2020)
   * Excellent Student(2018-2019, 2019-2020)
-  * The third prize in The first mathematical modeling contest
+  * The third prize in The first Mathematical Modeling Contest
   * The third prize in The third Mathematics Competition(Math I)
   * The excellence award in Intramural Trials of The 14th College Student Innovation and Entrepreneurship Competition and the 6th China International "Internet+" College Student Innovation and Entrepreneurship Competition
 
@@ -25,5 +25,5 @@ title: Personal Experiences
 ## Volunteer Services
 
 *  Volunteer Teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province
-*  Media volunteer service of The 18th World Police and firefighters games in Chengdu, China
+*  Media volunteer service of The 18th World Police and Firefighters Games in Chengdu, China
 *  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay
