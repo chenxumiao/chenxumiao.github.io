@@ -18,6 +18,6 @@ title: Personal Experiences
 ## Researchs
 
 * Provincial Level
-  * Research on the recognition and segmentation of hemorrhage region in brain CT image, West China Clinical Medical College of Sichuan University
+  * Research on the recognition and segmentation of hemorrhage region in brain CT image of West China Clinical Medical College of Sichuan University
 * School Level
-  *
+  * Research on automatic driving of Jincheng star of Jincheng College of Sichuan University
