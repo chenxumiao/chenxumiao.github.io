@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Publications
-description: >
- **Selected publications**
-menu: true
-order: 1
 ---
 
 * Yijie Lin, Yuanbiao Gou, Zitao Liu, **Boyun Li**, Jiancheng Lv, and Xi Peng, “COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction,” presented at the *IEEE Conference on Computer Vision and Pattern Recognition*, Online, Jun. 2020.[PDF] [Codes] [BibTex]
