@@ -7,7 +7,7 @@ title: Personal Experiences
 * National Level
   * National Encouragement Scholarship(2018-2019)
 * Provincial Level
-  * The third prize in Java Software Development University Group B of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition(Sichuan Division)
+  * The third prize in University Group B of Java Software Development of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition(Sichuan Division)
 * School Level 
   * Third-class Scholarship(2018-2019, 2019-2020)
   * Excellent Student(2018-2019, 2019-2020)
