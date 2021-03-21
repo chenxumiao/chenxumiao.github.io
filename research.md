@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Personal Experiences
 ---
 ## Academic Activities
 
