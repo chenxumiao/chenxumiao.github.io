@@ -18,7 +18,7 @@ title: Personal Experiences
 ## Researchs
 
 * Provincial Level
-  * Research on the recognition and segmentation of hemorrhage region in brain CT image of West China Clinical Medical College of Sichuan University
+  * Development and application of decision support system for hypertensive intracerebral hemorrhage surgery based on "artificial intelligence + Medical Union" model of Key R&D Project of Sichuan Provincial Department of Science and Technology (2020YFS0091)
 * School Level
   * Research on automatic driving of Jincheng star of Jincheng College of Sichuan University
 
