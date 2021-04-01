@@ -18,7 +18,7 @@ title: Personal Experiences
 ## Researchs
 
 * Provincial Level
-  * Development and application of decision support system for hypertensive intracerebral hemorrhage surgery based on "artificial intelligence + Medical Union" model, Key R&D Project of Sichuan Provincial Department of Science and Technology (2020YFS0091)
+  * Development and application of decision support system for hypertensive intracerebral hemorrhage surgery based on "Artificial Intelligence + Medical Union" model, Key R&D Project of Sichuan Provincial Department of Science and Technology (2020YFS0091)
 * School Level
   * Automatic driving of Jincheng star, Jincheng College of Sichuan University
 
