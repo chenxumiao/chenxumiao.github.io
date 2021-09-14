@@ -11,3 +11,6 @@ title: Publications
    * An automatic detection system for CT intracerebral hemorrhage based on improved Unet, Invention patent (ZL202110674662.7)
    * A Computer with graphical user interface for segmentation of intracerebral CT hemorrhage region, Industrial design patent (ZL202130447657.3) 
    * A Computer with graphical user interface for intracerebral CT hemorrhage analysis, Industrial design patent (ZL202130391819.6) 
+
+* Copyright
+  * Automatic recognition and segmentation system of hypertensive intracerebral hemorrhage based on machine learning, Computer software copyright (2021SR1047901)
