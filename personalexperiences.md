@@ -5,10 +5,12 @@ title: Personal Experiences
 ## Honor Certificates
 
 * National Level
-  * National Encouragement Scholarship (2018-2019)
-  * The second prize in The 14th Chinese Collegiate Computing Competition (4C2021)
+  * Honored to receive the National Encouragement Scholarship (2018-2019).
+  * Honored to win the national second prize of The 14th Chinese Collegiate Computing Competition (4C2021).
 * Provincial Level
-  * The third prize in University Group B of Java Software Development of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition (Sichuan Division)
+  * Honored to win the gold medal of The 7th Sichuan Province International "Internet+" College Students Innovation and Entrepreneurship Competition.
+  * Honored to win the provincial third prize of 2021 Chengdu Division of China-US Young Maker Competition.
+  * Honored to win the provincial third prize of University Group B of Java Software Development of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition (Sichuan Division).
 * School Level 
   * Third-class Scholarship (2018-2019, 2019-2020)
   * Excellent Student (2018-2019, 2019-2020)
