@@ -8,15 +8,14 @@ title: Personal Experiences
   * Honored to receive the National Encouragement Scholarship (2018-2019).
   * Honored to win the national second prize of The 14th Chinese Collegiate Computing Competition (4C2021).
 * Provincial Level
-  * Honored to win the gold medal of The 7th Sichuan Province International "Internet+" College Students Innovation and Entrepreneurship Competition.
+  * Honored to win the provincial gold medal of The 7th Sichuan Province International "Internet+" College Students Innovation and Entrepreneurship Competition.
   * Honored to win the provincial third prize of 2021 Chengdu Division of China-US Young Maker Competition.
   * Honored to win the provincial third prize of University Group B of Java Software Development of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition (Sichuan Division).
 * School Level 
-  * Third-class Scholarship (2018-2019, 2019-2020)
-  * Excellent Student (2018-2019, 2019-2020)
-  * The third prize in The first Mathematical Modeling Contest
-  * The third prize in The third Mathematics Competition (Math I)
-  * The excellence award in Intramural Trials of The 14th College Student Innovation and Entrepreneurship Competition and the 6th China International "Internet+" College Student Innovation and Entrepreneurship Competition
+  * Honored to receive the Third-class Scholarship (2018-2019, 2019-2020)
+  * Honored to receive the Excellent Student (2018-2019, 2019-2020)
+  * Honored to win the school level third prize of The first Mathematical Modeling Contest
+  * Honored to win the school level third prize of The third Mathematics Competition (Math I)
 
 ## Researchs
 
