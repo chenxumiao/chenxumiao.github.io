@@ -6,6 +6,7 @@ title: Personal Experiences
 
 * National Level
   * National Encouragement Scholarship (2018-2019)
+  * The second prize in The 14th Chinese Collegiate Computing Competition (4C2021)
 * Provincial Level
   * The third prize in University Group B of Java Software Development of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition (Sichuan Division)
 * School Level 
