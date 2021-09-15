@@ -26,3 +26,9 @@ title: Personal Experiences
   * COVID-19 prediction and prevention and control strategies based on RNN+SEIR epidemic dynamics model, Project of Chengdu Science and Technology Bureau (2021-YF05-01585-SN)
 * School Level
   * Automatic driving of Jincheng star, Jincheng College of Sichuan University
+
+## Volunteer Services
+
+*  Volunteer Teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province
+*  Media volunteer service of The 18th World Police and Firefighters Games in Chengdu, China
+*  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay
