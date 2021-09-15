@@ -25,7 +25,7 @@ title: Personal Experiences
 * Municipal level
   * COVID-19 prediction and prevention and control strategies based on RNN+SEIR epidemic dynamics model, Project of Chengdu Science and Technology Bureau (2021-YF05-01585-SN)
 * School Level
-  * Automatic driving of Jincheng star, Jincheng College of Sichuan University
+  * Automatic driving of Jincheng star, Chengdu Jincheng College
 
 ## Volunteer Services
 
