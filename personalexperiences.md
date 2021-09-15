@@ -21,14 +21,14 @@ title: Personal Experiences
 ## Researchs
 
 * Provincial Level
-  * Development and application of decision support system for hypertensive intracerebral hemorrhage surgery based on "Artificial Intelligence + Medical Union" model, Key R&D Project of Sichuan Provincial Department of Science and Technology (2020YFS0091)
+  * Development and application of decision support system for hypertensive intracerebral hemorrhage surgery based on "Artificial Intelligence + Medical Union" model, Key R&D Project of Sichuan Provincial Department of Science and Technology, China (2020YFS0091)
 * Municipal level
-  * COVID-19 prediction and prevention and control strategies based on RNN+SEIR epidemic dynamics model, Project of Chengdu Science and Technology Bureau (2021-YF05-01585-SN)
+  * COVID-19 prediction and prevention and control strategies based on RNN+SEIR epidemic dynamics model, Project of Chengdu Science and Technology Bureau, China (2021-YF05-01585-SN)
 * School Level
-  * Automatic driving of Jincheng star, Chengdu Jincheng College
+  * Automatic driving of Jincheng star, Chengdu Jincheng College, China
 
 ## Volunteer Services
 
-*  Volunteer Teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province
-*  Media volunteer service of The 18th World Police and Firefighters Games in Chengdu, China
-*  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay
+*  Volunteer Teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province, China
+*  Media volunteer service of The 18th World Police & Firefighters Games, Chengdu, China
+*  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay, Chengdu, China
