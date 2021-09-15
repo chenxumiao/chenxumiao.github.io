@@ -44,7 +44,7 @@ logo:                  /assets/icons/cxm.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Xumiao> <Chen>
-  email:               chenxmzsyx@gmail.com/chenxmbyyx@163.com
+  email:               chenxmzsyx@gmail.com
   # Used by `jekyll-seo-tag`:
   #twitter:             photocyte
   #picture:             /images/avatar.png
