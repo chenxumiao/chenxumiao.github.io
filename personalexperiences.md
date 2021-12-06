@@ -7,6 +7,7 @@ title: Personal Experiences
 * National Level
   * Honored to receive the National Encouragement Scholarship (2018-2019).
   * Honored to win the national second prize of The 14th Chinese Collegiate Computing Competition (4C2021).
+  * Honored to win the national third prize of The 17th "Challenge Cup" National College Students' extracurricular academic science and technology works competition black science and technology special competition.
 * Provincial Level
   * Honored to win the provincial gold medal of The 7th Sichuan Province International "Internet+" College Students Innovation and Entrepreneurship Competition.
   * Honored to win the provincial third prize of 2021 Chengdu Division of China-US Young Maker Competition.
