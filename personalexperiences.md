@@ -7,7 +7,7 @@ title: Personal Experiences
 * National Level
   * Honored to receive the National Encouragement Scholarship (2018-2019, 2020-2021).
   * Honored to win the national second prize of The 14th Chinese Collegiate Computing Competition (4C2021).
-  * Honored to win the national third prize of The 17th "Challenge Cup" National College Students' extracurricular academic science and technology works competition black science and technology special competition.
+  * Honored to win the national third prize of The 17th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition Black Science and Technology Special Competition.
 * Provincial Level
   * Honored to win the provincial gold medal of The 7th Sichuan Province International "Internet+" College Students Innovation and Entrepreneurship Competition.
   * Honored to win the provincial third prize of 2021 Chengdu Division of China-US Young Maker Competition.
@@ -25,10 +25,10 @@ title: Personal Experiences
 * Municipal level
   * COVID-19 prediction and prevention and control strategies based on RNN+SEIR epidemic dynamics model, Project of Chengdu Science and Technology Bureau, China (2021-YF05-01585-SN)
 * School Level
-  * Automatic driving of Jincheng star, Chengdu Jincheng College, China
+  * Automatic driving of Jincheng star, Project of Chengdu Jincheng College, China
 
 ## Volunteer Services
 
-*  Volunteer Teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province, China
+*  Volunteer teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Prefecture, Sichuan Province, China
 *  Media volunteer service of The 18th World Police & Firefighters Games, Chengdu, China
 *  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay, Chengdu, China
