@@ -13,6 +13,7 @@ title: Personal Experiences
   * Honored to win the provincial third prize of 2021 Chengdu Division of China-US Young Maker Competition.
   * Honored to win the provincial third prize of University Group B of Java Software Development of The 11th Blue Bridge Cup National Software and Information Technology Professional Talent Competition (Sichuan Division).
 * College Level 
+  * Honored to win the university second prize of The 7th Sichuan University "Internet+" College Students Innovation and Entrepreneurship Competition.
   * Honored to receive the Outstanding Student Scholarship (2018-2019, 2019-2020, 2020-2021).
   * Honored to receive the Outstanding University Graduates in Sichuan Province (2020-2021).
   * Honored to receive the Excellent Student (2018-2019, 2019-2020).
