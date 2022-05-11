@@ -20,8 +20,8 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Xumiao CHEN>
-                       Greetings! I'm Xumiao CHEN
+title:                 Greetings! I'm Xumiao CHEN>
+                       Xumiao CHEN
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
