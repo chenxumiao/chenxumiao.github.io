@@ -15,6 +15,7 @@ title: Personal Experiences
   * Honored to receive the Outstanding University Graduates in Sichuan Province (2020-2021).
 * College Level 
   * Honored to win the university second prize of The 7th Sichuan University "Internet+" College Students Innovation and Entrepreneurship Competition.
+  * Honored to win the college gold medal of The 15th College Students Innovation and Entrepreneurship Competition and the 7th China International "Internet+" College Students Innovation and Entrepreneurship Competition.
   * Honored to receive the Outstanding Student Scholarship (2018-2019, 2019-2020, 2020-2021).
   * Honored to receive the Excellent Student (2018-2019, 2019-2020).
   * And all.
