@@ -32,6 +32,6 @@ title: Personal Experiences
 
 ## Volunteer Services
 
-*  Volunteer teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Yi Autonomous Prefecture, Sichuan Province, China
-*  Media volunteer service of The 18th World Police & Firefighters Games, Chengdu, China
-*  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay, Chengdu, China
+*  Volunteer teaching in Yousuo Township Primary School, Yanyuan County, Liangshan Yi Autonomous Prefecture, Sichuan Province, China, Jul.2019.
+*  Media volunteer service of The 18th World Police & Firefighters Games, Chengdu, China, Aug.2019.
+*  Volunteer service of Chengdu Station of 2019 Colleges and Universities 100 Miles Relay, Chengdu, China, Oct.2019.
